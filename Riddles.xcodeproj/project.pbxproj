@@ -13,6 +13,7 @@
 		10F5DDCF24E92539002BEBA9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 10F5DDCE24E92539002BEBA9 /* Assets.xcassets */; };
 		10F5DDD224E92539002BEBA9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 10F5DDD124E92539002BEBA9 /* Preview Assets.xcassets */; };
 		10F5DDD524E92539002BEBA9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 10F5DDD324E92539002BEBA9 /* LaunchScreen.storyboard */; };
+		10F5DDDD24E92F23002BEBA9 /* Riddle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10F5DDDC24E92F23002BEBA9 /* Riddle.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		10F5DDD124E92539002BEBA9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		10F5DDD424E92539002BEBA9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		10F5DDD624E92539002BEBA9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		10F5DDDC24E92F23002BEBA9 /* Riddle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Riddle.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				10F5DDC824E92536002BEBA9 /* AppDelegate.swift */,
 				10F5DDCA24E92536002BEBA9 /* SceneDelegate.swift */,
 				10F5DDCC24E92536002BEBA9 /* ContentView.swift */,
+				10F5DDDC24E92F23002BEBA9 /* Riddle.swift */,
 				10F5DDCE24E92539002BEBA9 /* Assets.xcassets */,
 				10F5DDD324E92539002BEBA9 /* LaunchScreen.storyboard */,
 				10F5DDD624E92539002BEBA9 /* Info.plist */,
@@ -149,6 +152,7 @@
 				10F5DDC924E92536002BEBA9 /* AppDelegate.swift in Sources */,
 				10F5DDCB24E92536002BEBA9 /* SceneDelegate.swift in Sources */,
 				10F5DDCD24E92536002BEBA9 /* ContentView.swift in Sources */,
+				10F5DDDD24E92F23002BEBA9 /* Riddle.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
